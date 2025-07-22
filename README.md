@@ -47,6 +47,4 @@
 
 ---
 
-<h2>🏆 Top Contributed Repo</h2>
 
-<!-- You can manually link your top project or pin it on your profile -->
