@@ -1,10 +1,10 @@
-<h2>⚡ About Me:</h2>
+<h2>🧑‍💻 About Me:</h2>
 
 - 🎓 I'm currently pursuing my Bachelor's degree in Computer Science.
 - 💡 Passionate about software development and artificial intelligence.
 - 🌱 Learning Full-Stack Web Development (MERN) and Deep Learning.
 - 🧠 I enjoy solving coding problems and building real-world projects.
-- 📫 Reach me at: **your_email@example.com**
+- 📫 Reach me at: **ahmadd.habibb11@gmail.com**
 
 ---
 
@@ -36,9 +36,9 @@
 <h2>📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmadHabib11&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHabib11&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHabib11&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
