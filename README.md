@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmadHabib11&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourAhmadHabib11&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHabib11&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHabib11&layout=compact&theme=radical&hide_border=true" />
 </p>
 
