@@ -1,58 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">Aspiring Software Developer | AI/ML & Full-Stack Enthusiast</h3>
+<h2>⚡ About Me:</h2>
+
+- 🎓 I'm currently pursuing my Bachelor's degree in Computer Science.
+- 💡 My primary interests include software development and artificial intelligence.
+- 🌱 I'm currently learning full-stack web development and deep learning.
+- 🧠 I enjoy solving coding problems and building real-world projects.
+- 📫 You can reach me via email at: **[your_email@example.com]**
 
 ---
 
-## 🧑‍💻 About Me
+<h2>🌐 Socials:</h2>
 
-- 🔭 I’m currently working on full-stack and AI projects  
-- 🌱 Learning Deep Learning & MERN Stack Development  
-- 💻 I love combining logic, creativity, and technology to solve real problems  
-- 🧠 Always building, always learning  
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <a href="https://discord.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack:</h2>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadhabib&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabib&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabib&layout=compact&theme=tokyonight" width="48%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmadhabib" alt="visitor badge"/>
-</p>
+<h2>🏆 Top Contributed Repo</h2>
+
+<!-- You can manually list or link your top repo or use shields.io badges -->
