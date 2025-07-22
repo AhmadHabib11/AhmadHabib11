@@ -12,8 +12,14 @@
 
 <p>
   <a href="https://www.linkedin.com/in/ahmad-habib-044579347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  <a href="https://ahmaddsportfolio.my.canva.site/ahmad-s-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  
   <a href="https://discord.com/users/725737719522918512"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  
+  <a href="mailto:ahmadd.habibb11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 ---
 
