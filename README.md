@@ -40,7 +40,7 @@
 
 ---
 
-<h2>📊 Stats:</h2>
+<h2>📊 Statistics:</h2>
 
 <p align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=AhmadHabib11&theme=dark" />
