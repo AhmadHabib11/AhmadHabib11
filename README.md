@@ -43,7 +43,7 @@
 <h2>📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHabib11&show_icons=true&theme=radical" />
+  <img src="https://leetcard.jacoblin.cool/AhmadHabib11?theme=dark&font=Karma&ext=heatmap" />
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadHabib11&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHabib11&layout=compact&theme=radical&hide_border=true" />
 </p>
