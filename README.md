@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently pursuing my Bachelor's degree in Computer Science.
 - 💡 Passionate about software development and artificial intelligence.
-- 🌱 Studying Deep Learning.
+- 🌱 Digging into Deep Learning and Neural Networks.
 - 🧠 I enjoy solving coding problems and building real-world projects.
 - 📫 Reach me at: **ahmadd.habibb11@gmail.com**
 
