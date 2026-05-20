@@ -38,8 +38,8 @@
 <h2>📊 Statistics:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHabib11&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AhmadHabib11&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHabib11&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://streak-stats.demolab.com?user=AhmadHabib11&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
