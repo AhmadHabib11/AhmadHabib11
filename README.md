@@ -210,8 +210,8 @@ Designed and implemented backend systems for a developer-verification platform.
 
 | Recognition | Details |
 |---|---|
-| 🥇 Gold Medal — O Level | Awarded for outstanding academic performance in O Level examinations |
-| 🥈 Silver Medal — A Level | Awarded for outstanding academic performance in A Level examinations |
+| 🥇 Gold Medal — O Level | Awarded for 8A*s in O Level examinations |
+| 🥈 Silver Medal — A Level | Awarded for 2As in A Level examinations |
 | 🎓 100% Merit Scholarship — A Level | Full-tuition merit scholarship awarded for academic excellence |
 
 </div>
