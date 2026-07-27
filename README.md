@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ahmad%20Habib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Ahmad Habib
+
+**AI/ML Engineer · Full Stack Developer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Pursuing+the+Deep+Learning+Specialization;Shipping+full-stack+AI-based+products;Pursuing+AI%2FML+Engineering" alt="Typing SVG" />
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.S.-Computer%20Science%20%40%20FAST--NUCES-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Degree](https://img.shields.io/badge/B.S.-Computer%20Science%20%40%20FAST--NUCES-4F46E5?style=flat-square&logo=googlescholar&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-AI%2FML%20Engineering-7C3AED?style=flat-square&logo=OpenAI&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-334155?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-habib-044579347)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadd.habibb11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadHabib11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-habib-044579347)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadd.habibb11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadHabib11)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmadHabib11&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/AhmadHabib11?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)
-![Stars](https://img.shields.io/github/stars/AhmadHabib11?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmadHabib11&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/AhmadHabib11?style=for-the-badge&color=6366F1&labelColor=1a1a1a)
+![Stars](https://img.shields.io/github/stars/AhmadHabib11?style=for-the-badge&color=6366F1&labelColor=1a1a1a)
 
 </div>
 
@@ -108,6 +110,8 @@ I'm particularly drawn to understanding models at the mathematical level — vec
 <summary><strong>🔹 ConstructVR — AI-Powered Construction Cost Estimator</strong></summary>
 
 <br/>
+
+An AI-powered construction cost estimator for Pakistani residential builds, with homeowner and contractor modes for grey-structure and complete-construction estimates.
 
 **Status:** Product development in progress
 **Live Demo:** [construct-vr.vercel.app](https://construct-vr.vercel.app)
@@ -210,8 +214,8 @@ Designed and implemented backend systems for a developer-verification platform.
 
 | Recognition | Details |
 |---|---|
-| 🥇 Gold Medal — O Level | Awarded for 8A*s in O Level examinations |
-| 🥈 Silver Medal — A Level | Awarded for 2As in A Level examinations |
+| 🥇 Gold Medal — O Level | Awarded for outstanding academic performance in O Level examinations |
+| 🥈 Silver Medal — A Level | Awarded for outstanding academic performance in A Level examinations |
 | 🎓 100% Merit Scholarship — A Level | Full-tuition merit scholarship awarded for academic excellence |
 
 </div>
@@ -234,7 +238,7 @@ Designed and implemented backend systems for a developer-verification platform.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AhmadHabib11/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AhmadHabib11/)
 
 <br/>
 
@@ -248,22 +252,12 @@ Designed and implemented backend systems for a developer-verification platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadHabib11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com?user=AhmadHabib11&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://streak-stats.demolab.com?user=AhmadHabib11&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="60%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHabib11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmadHabib11&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+![Total Stars](https://img.shields.io/github/stars/AhmadHabib11?style=for-the-badge&label=TOTAL%20STARS&color=6366F1&labelColor=1a1a1a)
+![Followers](https://img.shields.io/github/followers/AhmadHabib11?style=for-the-badge&label=FOLLOWERS&color=6366F1&labelColor=1a1a1a)
 
 </div>
 
@@ -318,9 +312,9 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadd.habibb11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-habib-044579347)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadHabib11)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadd.habibb11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-habib-044579347)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadHabib11)
 
 </div>
 
@@ -329,7 +323,5 @@ Open To:
 <div align="center">
 
 *"Understand it from first principles, then build it in production."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
 </div>
