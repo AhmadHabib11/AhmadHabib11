@@ -111,8 +111,6 @@ I'm particularly drawn to understanding models at the mathematical level — vec
 
 <br/>
 
-An AI-powered construction cost estimator for Pakistani residential builds, with homeowner and contractor modes for grey-structure and complete-construction estimates.
-
 **Status:** Product development in progress
 **Live Demo:** [construct-vr.vercel.app](https://construct-vr.vercel.app)
 
