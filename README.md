@@ -320,6 +320,4 @@ Open To:
 
 <div align="center">
 
-*"Understand it from first principles, then build it in production."*
-
 </div>
